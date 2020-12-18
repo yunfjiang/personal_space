@@ -224,9 +224,9 @@ input, select, textarea {
 		-webkit-transform: translate3d(0,0,0);
 		-ms-transform: translate3d(0,0,0);
 		transform: translate3d(0,0,0);
-	/* Set your background with this */
+	/* Set your background with this, mountain 348cb2, robot #133058, #281604,#5C350F   */
 
-		background: #348cb2 url("images/bg.jpg") bottom left;
+		background: #133058 url("images/bg2.jpg") bottom left;
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
